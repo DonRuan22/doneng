@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/drawable/bot_chat.xml" value="0.17" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/drawable/ic_donexg_background.xml" value="0.155" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/drawable/ic_send_black_24dp.xml" value="0.17" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/drawable/user_chat.xml" value="0.17" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/layout/bot_message_box.xml" value="0.1921875" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/layout/user_message_box.xml" value="0.1921875" />
+        <entry key="..\:/Users/Donruan/Documents/DHL_App/DHLApp/mlkit-android-master/mlkit-android-master/Doneng/app/src/main/res/mipmap-anydpi-v26/ic_donexg.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
